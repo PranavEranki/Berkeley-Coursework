@@ -1,0 +1,8 @@
+'two_of_three-correct', (0, 70)
+'largest_factor-correct', (512, 70)
+'hailstone-correct', (1024, 70)
+'product-correct', (1536, 70)
+'accumulate-correct', (2048, 70)
+'summation_using_accumulate-correct', (2560, 70)
+'product_using_accumulate-correct', (3072, 70)
+'a_plus_abs_b-correct', (3584, 70)
