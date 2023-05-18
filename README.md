@@ -126,3 +126,7 @@ Pranav
 - This decal run by Jelani Nelson and the Comp Programming Club @ Berkeley aims to introduce the basics of comp programming. I have attached <b>all lectures except the intro in the above folder </b>. These lectures were supplemented with Codeforces problems, some of which are mentioned by name in the lectures. 
 
 ## Cogsci 131
+- This class had a very interesting, informative lecture on computational models of cognition, ...
+    - covering the logic behind neural networks
+    - providing insight how humans solve challenging computational problems
+    - exploring three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
