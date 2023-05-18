@@ -106,7 +106,7 @@ Pranav
     - [Proj 2](CS_161/sp23-proj2-tahir-pranav-main/): Designed a secure file sharing system with user auth, save/load/overwrite/append/share/revoke access for all user files across sessions. Refer to [design doc](CS_161/sp23-proj2-tahir-pranav-main/Informal_Design_Doc.pdf) for more details.
     - [Proj 3]: web safety attacks, including sql injection, session token and cookie manipulation, and stored / reflected XSS attack.
 
-## CS 186[CS_186]
+## [CS 186](CS_186)
 - This class covers database systems and their associated concepts, including SQL, disks and files, B+ trees, buffer management, relational algebra, hashing/sorting, iterators and joins. query optimiation, transactions and concurrency, design, recovery, parallel query processing, distributed transactions, NoSQL, and MapReduce/Spark. Their [notes](https://cs186berkeley.net/notes/) are also well maintained, refer to those.
 - For our projects in this class, we:
     - wrote complex, nested SQL queries covering wide functionality
