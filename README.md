@@ -14,7 +14,7 @@ Pranav
 
 </b>
 
-## Coursework, concepts, links:
+## Coursework, concepts, links ...:
 
 ### CS61A
 - Intro to computer programming at a college level
@@ -24,10 +24,12 @@ Pranav
     - Iterators / generators
     - Scheme (functional programming language, like Lisp)
 - [CHEATSHEET](61a-final-study-guide.pdf)
-[CS 47B](CS_47B)
-- 
+### [CS 47B](CS_47B)
+- This was a bridge course used to fufill my 61B requirement; 47B/61B focus on intro to DS&A (linked lists, b-trees, BSTs, heaps, PQs, graphs, MSTs, sorting ) and advanced OOP concepts (polymorphism, asymptotics, ADTs, etc)
+- <b> Replicated the WWII [ENIGMA machine](CS_47B/proj1), which can be passed different configurations and messages to encode/decode </b>
+- <b> Created a basic version of Git, [GITLET](CS_47B/proj3), capable of efficient adds/commits/rm/checkouts/logs/status/branches/merges/resets</b>
 
-CS 70
+### CS 70
 
 [CS 188](CS_188)
 
