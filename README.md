@@ -132,3 +132,6 @@ Pranav
     - covering the logic behind neural networks
     - providing insight how humans solve challenging computational problems
     - exploring three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
+
+## CS 162 Lectures
+- I watched this [free lecture series on operating systems and systems programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) on and off just to get a better understanding. A lot of the material overlaps with CS 186 and Eleng 122, which is why I found it very helpful 
