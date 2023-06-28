@@ -14,6 +14,8 @@ Pranav
 
 </b>
 
+*As an aside, and an obvious note, please DO NOT COPY any of the code or logic for projects, homeworks, designs, etc within this repository. You will be going against the basic logic of university (pushing yourself and utilizing support networks and hard work to persevere), and obviously run the risk of getting caught. For my valid people who don't cheat, hope you have a wonderful day.*
+
 
 ## [CS 61A](CS_61A)
 - Intro to computer programming at a college level
@@ -104,7 +106,7 @@ Pranav
     - [Proj 2](CS_161/sp23-proj2-tahir-pranav-main/): Designed a secure file sharing system with user auth, save/load/overwrite/append/share/revoke access for all user files across sessions. Refer to [design doc](CS_161/sp23-proj2-tahir-pranav-main/Informal_Design_Doc.pdf) for more details.
     - [Proj 3]: web safety attacks, including sql injection, session token and cookie manipulation, and stored / reflected XSS attack.
 
-## CS 186[CS_186]
+## [CS 186](CS_186)
 - This class covers database systems and their associated concepts, including SQL, disks and files, B+ trees, buffer management, relational algebra, hashing/sorting, iterators and joins. query optimiation, transactions and concurrency, design, recovery, parallel query processing, distributed transactions, NoSQL, and MapReduce/Spark. Their [notes](https://cs186berkeley.net/notes/) are also well maintained, refer to those.
 - For our projects in this class, we:
     - wrote complex, nested SQL queries covering wide functionality
@@ -139,3 +141,6 @@ Pranav
     - covering the logic behind neural networks
     - providing insight how humans solve challenging computational problems
     - exploring three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
+
+## CS 162 Lectures
+- I watched this [free lecture series on operating systems and systems programming](https://www.youtube.com/playlist?list=PLF2K2xZjNEf97A_uBCwEl61sdxWVP7VWC) on and off just to get a better understanding. A lot of the material overlaps with CS 186 and Eleng 122, which is why I found it very helpful 
