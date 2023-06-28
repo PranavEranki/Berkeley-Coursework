@@ -1,6 +1,6 @@
 # Coursework I enjoyed while at UC Berkeley
 
-## Focus: Systems, Security, Full-stack, Algorithms
+## Focus: Systems, Security, Full-stack, Algorithms, SWE
 
 <b> Each of the below links to a folder with materials pertaining to each class, complete with a README, homework/discussions/projects where applicable, and key takeaways from each class. </b>
 
@@ -121,12 +121,21 @@ Pranav
     - Briefly covers probability, calculus, mathematical models, and markov chain concepts for background knowledge. 
     - LTE wireless networks, QoS, network protocols
     - Physical layer technologies
+- For our final project in this class, my team and I developed a [Starlink LEO constellation network simulation](https://github.com/sidharthrajaram/starsim).
+
+## CS 169A
+- This class focused on an introduction to SWE on large software systems from an Agile methodologies standpoint.
+    - Agile vs Plan on Doc methodologies, behavior and test-driven-development
+    - Restful SaaS apps and microservices
+    - Ruby programs, Rails applications
+    - Unit & module tests, understanding design patterns, identifying security/performance problems
+- The textbook pdf can be found [for free here](http://www.saasbook.info/).
 
 ## [Comp Programming Decal](comp_decal)
-- This decal run by Jelani Nelson and the Comp Programming Club @ Berkeley aims to introduce the basics of comp programming. I have attached <b>all lectures except the intro in the above folder </b>. These lectures were supplemented with Codeforces problems, some of which are mentioned by name in the lectures. 
+- This decal run by Jelani Nelson and the Comp Programming Club @ Berkeley aims to introduce the basics of comp programming. I have attached <b>all lectures except the intro in the above folder </b>. These lectures were supplemented with Codeforces problems, some of which are mentioned by name in the lectures.
 
 ## Cogsci 131
-- This class had a very interesting, informative lecture on computational models of cognition, ...
+- This class had a very interesting, informative lecture on computational models of cognition, but most of the material from this class was simple data analysis type stuff, building neural networks, etc.
     - covering the logic behind neural networks
     - providing insight how humans solve challenging computational problems
     - exploring three ways in which researchers have attempted to formalize cognition -- symbolic approaches, neural networks, and probability and statistics -- considering the strengths and weaknesses of each.
