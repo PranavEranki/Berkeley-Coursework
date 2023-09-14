@@ -96,9 +96,9 @@ I hope this repository will serve useful for you. Best of luck in everything you
 ## CS 161
 - Easily one of my favorite classes at Berkeley, this class teaches memory safety, crytography, web security, and network security fundamentals for aspiring engineers. They maintain a beautiful [textbook](https://textbook.cs161.org/) which you should check out.
 - Projects:
-    - Proj 1: Exploiting a range of memory security vulnerabilities
-    - [Proj 2](CS_161/sp23-proj2-tahir-pranav-main/): Designed a secure file sharing system with user auth, save/load/overwrite/append/share/revoke access for all user files across sessions. Refer to [design doc](CS_161/sp23-proj2-tahir-pranav-main/Informal_Design_Doc.pdf) for more details.
-    - [Proj 3]: web safety attacks, including sql injection, session token and cookie manipulation, and stored / reflected XSS attack.
+    - Proj 1: Exploiting a range of memory security vulnerabilities, see [our code here](CS_161/Proj1/) which has the different "flags" that we completed.
+    - [Proj 2](CS_161/sp23-proj2-tahir-pranav-main/): Designed a secure file sharing system with user auth, save/load/overwrite/append/share/revoke access for all user files across sessions. Refer to [design doc](CS_161/sp23-proj2/Informal_Design_Doc.pdf) for more details, or see [our code here](S_161/sp23-proj2).
+    - [Proj 3]: web safety attacks, including sql injection, session token and cookie manipulation, stored / reflected XSS attack, and sql vulnerability / hash decoders. Deliverables completed elsewhere, cannot share this.
 
 ## [CS 186](CS_186)
 - This class covers database systems and their associated concepts, including SQL, disks and files, B+ trees, buffer management, relational algebra, hashing/sorting, iterators and joins. query optimiation, transactions and concurrency, design, recovery, parallel query processing, distributed transactions, NoSQL, and MapReduce/Spark. Their [notes](https://cs186berkeley.net/notes/) are also well maintained, refer to those.

