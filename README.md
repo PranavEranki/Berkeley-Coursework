@@ -89,9 +89,9 @@ I hope this repository will serve useful for you. Best of luck in everything you
     - Dependability, ECC, RAID, MapReduce/Spark, warehouse computing
 - [Labs folder](CS_61C) contains all the labs that have been done covering all these subjects
 - 61C had three projects:
-    - 1: Writing snek in C
-    - 2: Using RISC-v assembly to classify handwritten digits 
-    - 3: Building a CPU using Risc-V 5 stage pipeline to run every supported RISC-V operation, designing own ALU, RegFile, ImmGen, and implementing pipelining.
+    - 1: [Writing snek in C](Cs_61C/61C_Proj1_Snek/)
+    - 2: [Using RISC-v assembly to classify handwritten digits](CS_61C/61C_Proj2_handwritten_digits/)
+    - 3: [Building a CPU using Risc-V 5 stage pipeline to run every supported RISC-V operation, designing own ALU, RegFile, ImmGen, and implementing pipelining.](CS_61C/61C_Proj3_CPU/)
 
 ## CS 161
 - Easily one of my favorite classes at Berkeley, this class teaches memory safety, crytography, web security, and network security fundamentals for aspiring engineers. They maintain a beautiful [textbook](https://textbook.cs161.org/) which you should check out.
