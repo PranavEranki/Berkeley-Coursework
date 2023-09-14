@@ -109,6 +109,7 @@ I hope this repository will serve useful for you. Best of luck in everything you
     - Implemented a concurrency locking system with queueing, adding multigranularity locking constraints and 2 phase locking, 
     - Wrote write-ahead logging and support for savepoints, rollbacks, and ACID compliant restart recovery
     - Wrote efficient, complex, pipelined NoSQL code for MongoDB.
+- You can see my specific code for Projects 1-5 (the first five bullet points above) in [THIS FOLDER](CS_186).
 
 ## Eleng 122
 - This mathematically rigorous communications class taught me the design, implementation, and management of communication networks. The [textbook is downloaded and linked here](communications.pdf), and chiefly covers:
