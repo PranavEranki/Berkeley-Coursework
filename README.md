@@ -8,7 +8,7 @@ I hope this repository will serve useful for you. Best of luck in everything you
 
 </b>
 
-*As an aside, and an obvious note, please DO NOT COPY any of the code or logic for projects, homeworks, designs, etc within this repository. You will be going against the basic logic of university (pushing yourself and utilizing support networks and hard work to persevere), and obviously run the risk of getting caught. For my valid people who don't cheat, hope you have a wonderful day.*
+*As an aside, and an obvious note, please DO NOT COPY any of the code or logic for projects, homeworks, designs, etc within this repository. Thank you. *
 
 
 ## [CS 61A](CS_61A)
