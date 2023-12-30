@@ -4,8 +4,6 @@
 
 <b> Each of the below links to a folder with materials pertaining to each class, complete with a README, homework/discussions/projects where applicable, and key takeaways from each class. </b>
 
-I hope this repository will serve useful for you. Best of luck in everything you do, and may you change the world for the better.
-
 </b>
 
 *As an aside, and an obvious note, please DO NOT COPY any of the code or logic for projects, homeworks, designs, etc within this repository. Thank you. *
