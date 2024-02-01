@@ -4,17 +4,9 @@
 
 <b> Each of the below links to a folder with materials pertaining to each class, complete with a README, homework/discussions/projects where applicable, and key takeaways from each class. </b>
 
-I graduated after 2 hectic years full of late nights grinding out projects, early mornings preparing for midterms, and weekends spent making memories. I learned a lot about engineering, developed my technical skillset/portfolio, and most importantly, grew tenfold as a person and young adult. I tried to actively learn from my regrets, journal and introspect, and stay hungry for improvement. 
-
-Although this won't be a huge blurb about everything I learned about myself as a person, and will mainly focus on my classes, _I gaurantee that college will teach you just as much, if not more, about your personality, deficiencies, strengths, traumas, and potential._
-
-I hope this repository will serve useful for you. Best of luck in everything you do, and may you change the world for the better.
-Best,
-Pranav
-
 </b>
 
-*As an aside, and an obvious note, please DO NOT COPY any of the code or logic for projects, homeworks, designs, etc within this repository. You will be going against the basic logic of university (pushing yourself and utilizing support networks and hard work to persevere), and obviously run the risk of getting caught. For my valid people who don't cheat, hope you have a wonderful day.*
+*As an aside, and an obvious note, please DO NOT COPY any of the code or logic for projects, homeworks, designs, etc within this repository. Thank you. *
 
 
 ## [CS 61A](CS_61A)
@@ -95,16 +87,16 @@ Pranav
     - Dependability, ECC, RAID, MapReduce/Spark, warehouse computing
 - [Labs folder](CS_61C) contains all the labs that have been done covering all these subjects
 - 61C had three projects:
-    - 1: Writing snek in C
-    - 2: Using RISC-v assembly to classify handwritten digits 
-    - 3: Building a CPU using Risc-V 5 stage pipeline to run every supported RISC-V operation, designing own ALU, RegFile, ImmGen, and implementing pipelining.
+    - 1: [Writing snek in C](Cs_61C/61C_Proj1_Snek/)
+    - 2: [Using RISC-v assembly to classify handwritten digits](CS_61C/61C_Proj2_handwritten_digits/)
+    - 3: [Building a CPU using Risc-V 5 stage pipeline to run every supported RISC-V operation, designing own ALU, RegFile, ImmGen, and implementing pipelining.](CS_61C/61C_Proj3_CPU/)
 
 ## CS 161
 - Easily one of my favorite classes at Berkeley, this class teaches memory safety, crytography, web security, and network security fundamentals for aspiring engineers. They maintain a beautiful [textbook](https://textbook.cs161.org/) which you should check out.
 - Projects:
-    - Proj 1: Exploiting a range of memory security vulnerabilities
-    - [Proj 2](CS_161/sp23-proj2-tahir-pranav-main/): Designed a secure file sharing system with user auth, save/load/overwrite/append/share/revoke access for all user files across sessions. Refer to [design doc](CS_161/sp23-proj2-tahir-pranav-main/Informal_Design_Doc.pdf) for more details.
-    - [Proj 3]: web safety attacks, including sql injection, session token and cookie manipulation, and stored / reflected XSS attack.
+    - Proj 1: Exploiting a range of memory security vulnerabilities, see [our code here](CS_161/Proj1/) which has the different "flags" that we completed.
+    - [Proj 2](CS_161/sp23-proj2-tahir-pranav-main/): Designed a secure file sharing system with user auth, save/load/overwrite/append/share/revoke access for all user files across sessions. Refer to [design doc](CS_161/sp23-proj2/Informal_Design_Doc.pdf) for more details, or see [our code here](S_161/sp23-proj2).
+    - [Proj 3]: web safety attacks, including sql injection, session token and cookie manipulation, stored / reflected XSS attack, and sql vulnerability / hash decoders. Deliverables completed elsewhere, cannot share this.
 
 ## [CS 186](CS_186)
 - This class covers database systems and their associated concepts, including SQL, disks and files, B+ trees, buffer management, relational algebra, hashing/sorting, iterators and joins. query optimiation, transactions and concurrency, design, recovery, parallel query processing, distributed transactions, NoSQL, and MapReduce/Spark. Their [notes](https://cs186berkeley.net/notes/) are also well maintained, refer to those.
@@ -115,6 +107,7 @@ Pranav
     - Implemented a concurrency locking system with queueing, adding multigranularity locking constraints and 2 phase locking, 
     - Wrote write-ahead logging and support for savepoints, rollbacks, and ACID compliant restart recovery
     - Wrote efficient, complex, pipelined NoSQL code for MongoDB.
+- You can see my specific code for Projects 1-5 (the first five bullet points above) in [THIS FOLDER](CS_186).
 
 ## Eleng 122
 - This mathematically rigorous communications class taught me the design, implementation, and management of communication networks. The [textbook is downloaded and linked here](communications.pdf), and chiefly covers:

@@ -1,0 +1,14 @@
+---
+:id: 133664740
+:submitters:
+- :name: Truc Nguyen
+  :email: nttruc3003@berkeley.edu
+- :name: Pranav Eranki
+  :email: pranaveranki@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-14 16:29:10.443564000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-14 09:29:10.443564000 Z
+:status: processed
+:score: 100.0
